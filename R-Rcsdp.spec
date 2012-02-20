@@ -12,7 +12,9 @@ Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-41.tar.g
 Requires:         R-Matrix 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    R-Matrix 
+BuildRequires:    blas-devel
 BuildRequires:    coin-or-devel
+BuildRequires:    lapack-devel
 
 %description
 R interface to the CSDP semidefinite programming library. Installs version
