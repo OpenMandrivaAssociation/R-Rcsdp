@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1_41
-Release:          1
+Release:          2
 Summary:          R interface to the CSDP semidefinite programming library
 Group:            Sciences/Mathematics
 License:          file LICENSE
