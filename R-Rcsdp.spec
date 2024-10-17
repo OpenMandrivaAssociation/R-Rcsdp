@@ -7,7 +7,7 @@ Release:          2
 Summary:          R interface to the CSDP semidefinite programming library
 Group:            Sciences/Mathematics
 License:          file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-41.tar.gz
 Requires:         R-Matrix 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
